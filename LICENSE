@@ -1,0 +1,15 @@
+--2021-11-19 09:46:22--  http://creativecommons.org/licenses/by/4.0/legalcode.txt
+Распознаётся creativecommons.org (creativecommons.org)… 172.67.34.140, 104.20.151.16, 104.20.150.16, ...
+Подключение к creativecommons.org (creativecommons.org)|172.67.34.140|:80... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 301 Moved Permanently
+Адрес: https://creativecommons.org/licenses/by/4.0/legalcode.txt [переход]
+--2021-11-19 09:46:27--  https://creativecommons.org/licenses/by/4.0/legalcode.txt
+Подключение к creativecommons.org (creativecommons.org)|172.67.34.140|:443... соединение установлено.
+HTTP-запрос отправлен. Ожидание ответа… 200 OK
+Длина: нет данных [text/plain]
+Сохранение в: «legalcode.txt»
+
+     0K .......... ........                                    19,5M=0,001s
+
+2021-11-19 09:46:28 (19,5 MB/s) - «legalcode.txt» сохранён [18657]
+
